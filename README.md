@@ -7,7 +7,9 @@ Basic flask installer that:
 * Installs flask and some common modules
 * Launches an instance of the flask webserver on the localhost with the hello world app
 
-Requires python 2.*
+Requires 
+python 2.*
+pip
 
 ＃ Usage 
 
