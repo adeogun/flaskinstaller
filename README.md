@@ -12,7 +12,7 @@ Requires
 python 2.*
 pip
 
-＃Windows  Usage 
+＃ Windows  Usage 
 
 flaskinit.bat [projectdirectory] [projectname]
 
